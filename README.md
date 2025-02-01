@@ -8,7 +8,7 @@ To train the model, run the script using the following command:
 python3 GAN_atari.py
 ```
 
-# Viewing Results in TensorBoard
+## Viewing Results in TensorBoard
 To view your results in TensorBoard, run the following command in your terminal while the model is training:
 
 ```bash
